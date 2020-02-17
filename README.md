@@ -18,3 +18,5 @@ makefile --> ```LIBS = -lm```
 [ROM](https://tiroms.weebly.com/)  -- ti84plus working
 
 [ROM](https://education.ti.com/en/software/details/en/158B7669E4C0493A84D33D9A22FDBD3C/ti-84plusceoperatingsystem)
+
+![image](assets/image.png)
