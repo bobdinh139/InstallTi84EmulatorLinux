@@ -20,3 +20,11 @@ makefile --> ```LIBS = -lm```
 [ROM](https://education.ti.com/en/software/details/en/158B7669E4C0493A84D33D9A22FDBD3C/ti-84plusceoperatingsystem)
 
 ![image](assets/image.png)
+
+Or use [CEmu](https://github.com/CE-Programming/CEmu)
+
+KDE: 
+
+``` sudo gdebi [name cemu installed from debian].deb```
+
+![image2](assets/image2.png)
